@@ -1,0 +1,6 @@
+3party/*
+!3party/.gitkip
+tmp
+build
+.xmake
+.vscode
